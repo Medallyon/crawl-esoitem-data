@@ -4,7 +4,7 @@
   "description": "Multi-threaded crawling of esoitem.uesp.net/viewlog.php?record=minedItemSummary.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js 8 items.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Medallyon <tilman@medallyon.me>",
